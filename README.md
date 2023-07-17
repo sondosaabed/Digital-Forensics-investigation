@@ -9,7 +9,9 @@ Throughout this investigation, the process was divided mainly into 4 sections. T
 ## Example Screenshots
 
 - Using FTK Imager
+  
 ![image](https://github.com/sondosaabed/Digital-Forensics-investigation/assets/65151701/eff5ffe6-8664-4b12-98d8-57c2446d6d48)
 
 - Using Active Disk Editor
+  
 ![image](https://github.com/sondosaabed/Digital-Forensics-investigation/assets/65151701/392a4569-8f12-4abf-a410-8e1cac33ab8f)
